@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97433615500",
+    "firebase_url": "https://flutter-text-recognition-5aac2.firebaseio.com",
+    "project_id": "flutter-text-recognition-5aac2",
+    "storage_bucket": "flutter-text-recognition-5aac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97433615500:android:81c88ce360431c92174fa9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97433615500-o6bsu5mltmvdgn6fou3den8tp325qph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxFRI_Ba22db-Clqu16944ifevOmeKbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97433615500-o6bsu5mltmvdgn6fou3den8tp325qph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
